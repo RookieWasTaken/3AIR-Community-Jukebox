@@ -1,9 +1,97 @@
 constant array<string> CommunityJukebox_Music =
 {
+    //Jukebox is not on
+    "jukeboxoff",
+
+    //Sonic music
+    "theairwindyvalley",
+    "cityescape",
+    "openyourheart",
+    "liveandlearn",
+    "sonicheroes",
+    "KnightoftheWind",
+    "undefeatable",
+    "Big_the_Cat_Lofi",
+
+    //Persona music
     "lifewillchange",
     "LastSuprise",
+    "TakeOver",
     "MassDestruction",
+    "itsgoingdownnow",
+    
+    // Other SMT music
+    "KyuuyakuTokyo",
+
+    //Touhou music; maybe move this down with the other shmups?
     "EasternMysticalTaleOfRomance",
+    "RetributionForTheEternalNight",
+    "ShanghaiScarletTeahouseChineseTea",
+    "BadApplePC98",
+
+    // Ys music
+    "Tension",    
+    "IceRidgeOfNoltia",
+    "BurningFight",
+    "ThemeOfAdol1993",
+    "FieldOfGale",
+    "MountainZone",
+
+    // Final Fantasy music
+    "protecttheespers",
+    "GiantDungeon(FF4)",
+    "crazymotorcyclechase",
+    "manwithmachinegun",
+    "ff9battle",
+
+    // "Childhold classics" music
     "CaptainUnderpantsMusic",
+    "FNAF",
+    "weekendwhip",
+    "PeppaPigSong", // Proposal: Move this to the meme category because it contains an edited scream at the end and the sound test name calls it a "Fixed Version"
+    "HotDogDance",
+    "BrandyAndMrWhiskers",
+    "WhatismydestinyDragonBall", // The italian version of the opening theme song of Dragon Ball Z
+    "HyperDrive",
+
+    // DonPachi Music
+    "East_Asia",
+    "Michi_1",
+	"Niji",    
+	"Ran",
+
+    // Misc. shoot 'em up music
+    "Bloody_Battle_1", // Einhänder - did you know that Square Enix made a shmup?
+    "Silver_Lining_1", // Eschatos
+    "The_Glacial_Fortress", // Omega Five
+
+    // Misc. fighting game music
+    "conclusion", // Guilty Gear: The Missing Link
+    "ryualpha3", // Street Fighter Alpha 3
+
+    // Other Game Music
+    "MainBossCastle(NewSMBDS)",
+    "TheGrandFinale",
+    "GustyGardenGalaxy",
+    "GreenhornForest",
+    "HeartlessBeing",
+    "AirCombat",
+    "bandland",
+    "Mr.DarkBattle",
+    "BFGDivision",
+    "vrtraining",
+    "warproom",
+
+    //Misc and ungroupable music
+    "tombstone_arizzona",
+    "DROPTHEBOMB",
+	"Magnolia_1", // Original song; TODO: Find author
+	"Super_Reflex_1", // Megalomanchia2
+
+    // Memes
     "GrandpaThemeSong",
+    "SMLCookieCrisp",
+    "Pacmanthemesong", // Arabic version of the opening theme song to Pac-Man and the Ghostly Adventures; sound test name calls it a "Good Version" which suggests its inclusion is as a meme 
+    "BuckBumble", // Does come from a game but it's being included mainly for laughs; should it be moved to the game music category?
+
 }
